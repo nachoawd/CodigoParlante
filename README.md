@@ -51,9 +51,5 @@ A continuación se describe la conexión de los componentes principales:
 - **Módulo de Radio FM**:
   - `KEY_Radio` -> `GPIO14`
 
-## Instalación y configuración
 
-1. **Clonar el repositorio**:
-   ```bash
-   git clone https://github.com/tuusuario/turepositorio.git
-   cd turepositorio
+
